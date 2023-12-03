@@ -35,6 +35,10 @@ My comments on the macOS software I explore from these sources:
 
 - ❓  [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast)
 
+## IntelliJ plugins
+
+- ❓  [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT)
+
 ## AutoGPT, Agents, Personas
 
 - ❓  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
