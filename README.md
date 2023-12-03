@@ -26,3 +26,11 @@ My comments on the macOS software I explore from these sources:
 ## Real-time coaching
 
 - ❓  [cheetah](https://github.com/leetcode-mafia/cheetah)
+
+## Browser extensions
+
+- ❓  [GorvGoyl/ChatGPT-Writer](https://github.com/GorvGoyl/ChatGPT-Writer): generates entire emails or replies
+
+## GPTs, Agents, Personas
+
+- ❓  [polywrap/evo.ninja](https://github.com/polywrap/evo.ninja)
