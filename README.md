@@ -31,6 +31,7 @@ My comments on the macOS software I explore from these sources:
 
 - ❓  [GorvGoyl/ChatGPT-Writer](https://github.com/GorvGoyl/ChatGPT-Writer): generates entire emails or replies
 
-## GPTs, Agents, Personas
+## AutoGPT, Agents, Personas
 
+- ❓  [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 - ❓  [polywrap/evo.ninja](https://github.com/polywrap/evo.ninja)
