@@ -10,6 +10,7 @@ My comments on the macOS software I explore from these sources:
 - 💀 old commits, dead project, etc
 - 👎 don't like, insufficient features, etc
 - 💔 doesn't run
+- ❓ not tried yet
 
 ## Desktop apps
 
@@ -18,3 +19,7 @@ My comments on the macOS software I explore from these sources:
 - 💀 [lencx/ChatGPT](https://github.com/lencx/ChatGPT): copyright infringement?
 - 👎 [lencx/nofwl](https://github.com/lencx/nofwl): HemulGM's version has more features
 - 💔 [ChatGPT](https://github.com/HemulGM/ChatGPT): built with delphi
+
+## Real-time coaching
+
+- ❓ [cheetah](https://github.com/leetcode-mafia/cheetah)
