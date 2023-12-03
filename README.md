@@ -11,15 +11,18 @@ My comments on the macOS software I explore from these sources:
 - 👎 don't like, insufficient features, etc
 - 💔 doesn't run
 - ❓ not tried yet
+- 💲 paid
 
 ## Desktop apps
 
 - 💀👎 [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): built with Tauri & Rust
-- 👎 [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): menubar
-- 💀 [lencx/ChatGPT](https://github.com/lencx/ChatGPT): copyright infringement?
-- 👎 [lencx/nofwl](https://github.com/lencx/nofwl): HemulGM's version has more features
-- 💔 [ChatGPT](https://github.com/HemulGM/ChatGPT): built with delphi
+- 👎   [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): menubar
+- 💀   [lencx/ChatGPT](https://github.com/lencx/ChatGPT): copyright infringement?
+- 👎   [lencx/nofwl](https://github.com/lencx/nofwl): HemulGM's version has more features
+- 💔   [ChatGPT](https://github.com/HemulGM/ChatGPT): built with delphi
+- 💲❓ [MindMac](https://mindmac.app/)
+- 💲❓ [IntelliBar](https://intellibar.app/)
 
 ## Real-time coaching
 
-- ❓ [cheetah](https://github.com/leetcode-mafia/cheetah)
+- ❓  [cheetah](https://github.com/leetcode-mafia/cheetah)
