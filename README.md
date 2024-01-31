@@ -19,7 +19,7 @@ My comments on the macOS software I explore from these sources:
 - 👎   [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): menubar
 - 💀   [lencx/ChatGPT](https://github.com/lencx/ChatGPT): copyright infringement?
 - 👎   [lencx/nofwl](https://github.com/lencx/nofwl): HemulGM's version has more features
--     [ChatGPT](https://github.com/HemulGM/ChatGPT): built with delphi
+- [ChatGPT](https://github.com/HemulGM/ChatGPT): built with delphi
 - 💲❓ [MindMac](https://mindmac.app/)
 - 💲❓ [IntelliBar](https://intellibar.app/)
 
